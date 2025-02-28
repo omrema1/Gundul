@@ -51,17 +51,17 @@ proxies:
   - name: AKUN2
     server: quiz.int.vidio.com
     port: 443
-    type: vless
-    uuid: 9cf9a9b0-2e2e-45bd-ac6f-5eaa44e30cfe
+    type: trojan
+    uuid: 1b22da46-e08b-2fe-2ac5-00000000044d
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: id1vless.ipservers.xyz
+    servername: nadiavip2.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /jagoanssh
+      path: /trojan
       headers:
-        Host: id1vless.ipservers.xyz
+        Host: nadiavip2.vpnstore28.my.id
     udp: true
   - name: AKUN3
     server: quiz.int.vidio.com
