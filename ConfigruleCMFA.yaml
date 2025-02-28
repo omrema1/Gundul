@@ -39,7 +39,7 @@ proxies:
     uuid: f93cb874-4dad-4910-9158-ef960005a695
     alterId: 0
     cipher: auto
-    tls: false
+    tls: true
     skip-cert-verify: true
     servername: id3.servercepat.net
     network: ws
