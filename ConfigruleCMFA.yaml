@@ -32,9 +32,8 @@ dns:
     - 1.1.1.1
     - 112.215.203.254
 proxies:
-  - name: AKUN1
     name: 21MAREToff4715
-    server: id3.servercepat.net
+    server: quiz.int.vidio.com
     port: 443
     type: trojan
     password: f93cb874-4dad-4910-9158-ef960005a695
@@ -47,7 +46,7 @@ proxies:
         Host: id3.servercepat.net
     udp: true
   - name: 15maret2025
-    server: nadiavip2.vpnstore28.my.id
+    server: quiz.int.vidio.com
     port: 443
     type: trojan
     password: 1b22da46-e08b-2fe-2ac5-00000000044d
