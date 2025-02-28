@@ -44,7 +44,7 @@ proxies:
     servername: id3.servercepat.net
     network: ws
     ws-opts:
-      path: /trojan-ws/
+      path: /trojan-ws
       headers:
         Host: id3.servercepat.net
     udp: true
